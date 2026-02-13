@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Sitio Web</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            text-align: center;
+            min-height: 100vh;
+        }
+        h1 {
+            font-size: 3em;
+            margin-top: 50px;
+        }
+        p {
+            font-size: 1.2em;
+        }
+    </style>
+</head>
+<body>
+    <h1>¡Bienvenido a mi sitio web! 🎉</h1>
+    <p>Está alojado en GitHub Pages 24/7</p>
+    <p>Tu web estará en: <strong>https://sketchman1201.github.io/my-website/</strong></p>
+</body>
+</html>
